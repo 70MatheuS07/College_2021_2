@@ -1,0 +1,2 @@
+Sexo    Nome    IMC
+f       Maria   18.87

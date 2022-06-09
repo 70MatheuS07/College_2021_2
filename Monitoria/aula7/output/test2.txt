@@ -1,0 +1,2 @@
+Sexo    Nome    IMC
+m       Alfred 	26,12
