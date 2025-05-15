@@ -1,4 +1,4 @@
-# 📚 First Semester of College
+# 📚 Second Semester of College
 
 This repository contains materials, notes, and projects developed during my first semester of college. The goal is to organize my studies, share knowledge, and track my academic progress.
 
